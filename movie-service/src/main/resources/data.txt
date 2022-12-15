@@ -1,0 +1,1 @@
+INSERT INTO movies (id, title, director, rating) VALUES (1, 'Avatar', 'James Cameron', 5), (2, 'El origen', 'Christopher Nolan', 4);
